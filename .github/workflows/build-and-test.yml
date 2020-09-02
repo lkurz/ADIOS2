@@ -1,6 +1,5 @@
 name: GitHub Actions
 
-
 on: 
   push: 
     branches: 
